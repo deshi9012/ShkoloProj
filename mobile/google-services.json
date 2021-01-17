@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "279213393729",
+    "project_id": "shkoloproj-44cb7",
+    "storage_bucket": "shkoloproj-44cb7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:279213393729:android:409c2fc228bb8065b043c0",
+        "android_client_info": {
+          "package_name": "com.yourcompany.yourappname"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "279213393729-9f5u5l945fpcp99a9g19rb27e1dj950r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCl3PdF_GxY3XzYMezbGIsAGh8fbl5tKzU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "279213393729-9f5u5l945fpcp99a9g19rb27e1dj950r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
