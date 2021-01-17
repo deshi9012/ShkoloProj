@@ -3,15 +3,11 @@ import {
   View,
   Button,
   FlatList,
-  StatusBar,
   StyleSheet,
   Text
 } from 'react-native';
 import axios from 'axios';
 import Item from "../components/Item";
-import Constants from 'expo-constants';
-import * as Notifications from 'expo-notifications';
-import * as firebase from "firebase";
 
 const TimelineScreen = props => {
   const URI = 'http://localhost:8000';
